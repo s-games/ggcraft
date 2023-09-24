@@ -1,0 +1,36 @@
+{
+   "info":"success",
+   "num":3,
+   "result":[
+      {
+         "id":1,
+         "judule":"Lucky Block Addon",
+         "icone":"https://livemovies.club/mcpe_icons/lucky_block_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/lucky_block_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/lucky_block_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The Lucky Blocks Addon adds an exciting element to the game.\n\nIt looks very much like a block but it is in fact an entity which you can kill.\n\nOnce it is killed something random will happen.\n\nIf you are lucky you might get lots of valuable items but sometimes something much worse happens such as the wither boss spawning.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Lucky Block Real Block Edition Addon",
+         "icone":"https://livemovies.club/mcpe_icons/lucky_block_real_block_edition_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/lucky_block_real_block_edition_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/lucky_block_real_block_edition_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Lucky Block is all about chance this add-on introduce over 100 random possible events o and did I mention it's a block.\n\nAll other add-ons that are lucky blocks use entitys and have no bad events this add-on however is a fully useable and craftable block.\n\nThe Lucky Block for Minecraft is of complete randomness 100 possible bad or good events can happen from summoning a boss like the ender dragon or wither or give you a stack of diamonds.\n\n A lucky block is a yellow block with a white question mark that can be crafted with a dropper surrounded by eight gold ingots.\n\n If you break a lucky block your taking a chance to get something in return the main purpose of this add-on was to give gold a purpose as we all know gold in minecraft is just useless but with this feature we can turn them gold ingot into lucky blocks and see what happens.\n\nWarning I'm not responsible for any world damage as this can destroy your base or world because ender dragon can spawn with this add-on at complete randomness.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Lucky Blocks Race Map",
+         "icone":"https://livemovies.club/mcpe_icons/lucky_blocks_race_map.jpg",
+         "file_url":"https://livemovies.club/mcpe_maps/lucky_blocks_race_map.zip",
+         "typeMCPE":"Map",
+         "html_file":"https://livemovies.club/mcpe_html/lucky_blocks_race_map.html",
+         "extension":"mcworld",
+         "deskripsine":"LuckyBlocksRace is a competitive multiplayer racing game combined with lucky blocks.\n\n The main objective of the game is for players to run down a track and destroy lucky blocks.\n\n Lucky blocks are basically blocks which when destroyed will result in a randomized event.\n\n If you're lucky you'll get some valuable items, but most of the time something horrific will happen \u2014 like creepers spawning.\n\nHow to play?This minigame is suitable for anywhere between 2 \u2013 4 players with one team per player.\n\n Line up on the small (3\u00d73 block) platforms and then start a countdown from 10.\n\nPlayers must break the lucky blocks on the track before moving further down the track.\n\n Each time that a lucky block is destroyed it will cause a random event.\n\n This can include everything from a creeper spawning to a bunch of anvils falling from the air crushing anything below.\n\nYou are not allowed to walk outside your own track.\n\n Use the blocks in your inventory to repair the track if it's necessary for continuing further down the track.\n\nYou can reset the game from within the world after playing a round.\n\n"
+      }
+   ]
+}

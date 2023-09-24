@@ -1,0 +1,96 @@
+{
+   "info":"success",
+   "num":9,
+   "result":[
+      {
+         "id":1,
+         "judule":"Fortnite Addon",
+         "icone":"https://livemovies.club/mcpe_icons/fortnite_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/fortnite_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/fortnite_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The addon has no been completely redone!\nAll of the features have been retextured and modeled.\n\nThere has also been many new features added along with a new loading screen and skins!This addon includes weapons, items and new entities from the game Fortnite.\n\nThere are plenty weapons to choose from, and you can even ride the Battle Bus or fly a plane!\nWhile it's still very much Minecraft, a lot of things have been completed transformed to look more like Fortnite.\n\nSo if you're an avid fan of Minecraft and Fortnite, then this addon is great for you!"
+      },
+      {
+         "id":2,
+         "judule":"Fortnite Heroes Skins",
+         "icone":"https://livemovies.club/mcpe_icons/fortnite_heroes_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/fortnite_heroes_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/fortnite_heroes_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"This is a fan-made skin pack for all of you Fortnite fans out there.\n\nThe skin pack includes 9 different skins and each one is based on a cosmetic outfit (also known as skin) which exists in the Fortnite game.\n\nOne thing that's a little special about this pack is that the resolution of the skins are 128\u00d7128.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Insares Warfare Addon",
+         "icone":"https://livemovies.club/mcpe_icons/insares_warfare_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/insares_warfare_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/insares_warfare_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is an addon created by a simple schoolboy who once wanted to learn how to create cool addons.\n\nThe idea of this addon was inspired by Activision games, and the mod for Minecraft Java Vic's Modern Warfare.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Simple Warfare Addon",
+         "icone":"https://livemovies.club/mcpe_icons/simple_warfare_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/simple_warfare_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/simple_warfare_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon is replace 3DSG Addon because that addon have so many bug and very annoying, I now update it and change it Into Simple Warfare 2 Addon with brand new gun animation sound and effect, and fixed many bug!And now.\n\n.\n\n i updated this addon again in v2, in this v2, many minor bug like light block issue and grenade explosion issue has been fixed, i also add something new on this addon, and fixed some gun texture / animation"
+      },
+      {
+         "id":5,
+         "judule":"Swat Skins",
+         "icone":"https://livemovies.club/mcpe_icons/swat_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/swat_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/swat_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"You want to be a cool SWAT agent and impress your friends and everyone else?\nThen you are exactly right here.\n\nThe pack includes 9 SWAT agents.\n\nJack!Dexter!Brees!Zane!Paul!Oliver!Jaxon!Creeps!CarlaSkins created by: CaramelKingdom"
+      },
+      {
+         "id":6,
+         "judule":"Actual Guns Addon",
+         "icone":"https://livemovies.club/mcpe_icons/actual_guns_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/actual_guns_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/actual_guns_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The weapons are M24, SVD, PP-19 Bizon, Desert Eagle, Beretta, Magnum, Glock, M3, AA-12, Famas, Galil AR, Flamethrower, RPG, P90, MP5, MP7, MAC-10, UMP-45, AK-47, M4A1, SCAR, and Barrett M82/To reload, simply drop the gun on the ground or run out of ammo.\n\n"
+      },
+      {
+         "id":7,
+         "judule":"Actual Guns 3d Addon",
+         "icone":"https://livemovies.club/mcpe_icons/actual_guns_3d_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/actual_guns_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/actual_guns_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Do you like gun addons?\nlike all-time popular ActualGuns addon, what about trying something new?\nSuch as 3D Weapons!\nThen you should definitely try ActualGuns 3D, this addon is available for Minecraft bedrock edition.\n\nCredits: PixelPoly Digital"
+      },
+      {
+         "id":8,
+         "judule":"Portal Gun Addon",
+         "icone":"https://livemovies.club/mcpe_icons/portal_gun_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/portal_gun_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/portal_gun_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Want to experience the portal gun of java but in bedrock?\nwith this add-on you can now experience the beauty that is the portal gun and you can now troll the animals and even your friends by teleporting them everywhere.\n\n"
+      },
+      {
+         "id":9,
+         "judule":"Portal Gun 3d Addon",
+         "icone":"https://livemovies.club/mcpe_icons/portal_gun_3d_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/portal_gun_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/portal_gun_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on adds a functional portal gun to the game, based off the portal gun from the popular game Portal, Portal 2 it'll help you travel around your world.\n\n No scripts involved!To get the blue portal gun you'll need to craft it.\n\n It requires a nether star which is hard to obtain in survival mode.\n\n"
+      }
+   ]
+}

@@ -1,0 +1,36 @@
+{
+   "info":"success",
+   "num":3,
+   "result":[
+      {
+         "id":1,
+         "judule":"Nether Mobs Concept Addon",
+         "icone":"https://livemovies.club/mcpe_icons/nether_mobs_concept_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/nether_mobs_concept_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/nether_mobs_concept_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on brings you who want to know the new mobs of the nether update that is available for now only for java edition, Hoglin and Piglin!You will have an experience similar to snapshots released for java, since they have the behaviors almost identical to this add-on!"
+      },
+      {
+         "id":2,
+         "judule":"Biome Pets Addon",
+         "icone":"https://livemovies.club/mcpe_icons/biome_pets_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/biome_pets_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/biome_pets_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"BiomePets is an addon with eight new creatures to your game found in each respective biome, these pets have exciting features and each with an interesting defense mode to protect you from monsters!"
+      },
+      {
+         "id":3,
+         "judule":"Nether Update Addon",
+         "icone":"https://livemovies.club/mcpe_icons/nether_update_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/nether_update_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/nether_update_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Minecraft Java Edition Nether Update Addon Ported to MCPE!Note this addon is still in beta so a lot of things are changing, getting added, getting removed, etc.\n\n"
+      }
+   ]
+}

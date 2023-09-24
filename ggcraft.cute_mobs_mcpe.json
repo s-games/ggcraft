@@ -1,0 +1,46 @@
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"Cute Mobs Addon",
+         "icone":"https://livemovies.club/mcpe_icons/cute_mobs_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/cute_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/cute_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Ever wanted minecraft mobs to look like anime girls?Today is now your day, This add-on transforms creatures from minecraft to anime girls from AT2's art and Yarr's Cute Mob Models Mod.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Mowzies Mobs Addon",
+         "icone":"https://livemovies.club/mcpe_icons/mowzies_mobs_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/mowzies_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/mowzies_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.\n\nMowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations.\n\n "
+      },
+      {
+         "id":3,
+         "judule":"Mythic Mobs Addon",
+         "icone":"https://livemovies.club/mcpe_icons/mythic_mobs_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/mythic_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/mythic_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon replaces five mobs in Minecraft with 5 mythical monsters.\n\nAll of the mobs are hostile during all hours of the day except for the werewolf which only turns dangerous during the night.\n\nThe mobs look really frightening and is a really good addition to the game if you want a complete new set of mobs to fight!"
+      },
+      {
+         "id":4,
+         "judule":"Nether Mobs Concept Addon",
+         "icone":"https://livemovies.club/mcpe_icons/nether_mobs_concept_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/nether_mobs_concept_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/nether_mobs_concept_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on brings you who want to know the new mobs of the nether update that is available for now only for java edition, Hoglin and Piglin!You will have an experience similar to snapshots released for java, since they have the behaviors almost identical to this add-on!"
+      }
+   ]
+}
