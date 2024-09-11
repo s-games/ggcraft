@@ -1,0 +1,60 @@
+ 
+	  {
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"Damage Indicator Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/damage_indicator.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/damage_indicator.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/damage_indicator.html",
+         "extension":"mcpack",
+         "deskripsine":"Do you want to make your minecraft experience more of a rpg game? \nSo, what's missing? \nDamage Indicator! Yes! \n\nSome of us wanted to see the damage we deal to our enemies. \n\nThis addon does the job for you."
+      },
+      {
+         "id":2,
+         "judule":"Animated Rgb Xp Bar Classic Inventory Gui Addon",
+         "icone":"https://livemovies.club/mcpe_icons/animated_rgb_xp_bar_classic_inventory_gui_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/animated_rgb_xp_bar_classic_inventory_gui_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/animated_rgb_xp_bar_classic_inventory_gui_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"RGB XP Bar features:Animated RGB XP Bar and Number with total of 40 frames (Very smooth)!\n\nFor now it is not compatible with external HD textures. \n\nBut I have added subpack to select appearance between 16x and 32x bar texture. ;)"
+      },
+      {
+         "id":3,
+         "judule":"Vanilla Deluxe Java Ui Mixed Ui Pvp Ui Texture Pack",
+         "icone":"https://livemovies.club/mcpe_icons/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https://livemovies.club/mcpe_html/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Actually, is an testing TP made since fall 2016, oriented to port menus and container/inventory GUI textures from Java Edition to Bedrock Edition more easily and efficient!\n\nSo, it is not any PC GUI or any Java UI texture. \n\nIt is a tool that allows you to port Java GUI Containers textures easily while bringing some improvement in some basic interface. \n\nAnd was originally made first since autumn 2016 (Started with HUD and Java Inventory) and continued to this day with current features."
+      },
+      {
+         "id":4,
+         "judule":"Bedrocktime",
+         "icone":"https://livemovies.club/mcpe_icons/bedrocktime.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/bedrocktime.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/bedrocktime.html",
+         "extension":"mcpack",
+         "deskripsine":"Organized Settings FPS Booster Unlocked OptionsBedrocktimize focuses on the organization of settings and many quality of life changes while also focusing on boosting player's performance.\n\nSome of these changes include 3 new setting panels, revamped start screen, quick toggles, clear water, lower mipmap levels, and much more I'll get to down below. \n\nBedrocktimize is NOT made by optifine or linked to it. Bedrocktimize CAN however help you some severe cases of lag/FPS issues."
+      },
+      {
+         "id":5,
+         "judule":"Advancement Pack Java Achievements And Advancements Addon",
+         "icone":"https://livemovies.club/mcpe_icons/advancement_pack_java_achievements_and_advancements_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/advancement_pack_java_achievements_and_advancements_addon.z",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/advancement_pack_java_achievements_and_advancements_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Give spice to your gameplay by bringing Java advancements into Bedrock Edition with this add-on! \n\nFeaturing a Java-like popup display whenever you unlock an achievement and advancement, per world per player."
+      }
+   ]
+}
+	  
+	  
+	  
