@@ -1,0 +1,59 @@
+
+	  
+	  
+	  {
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"Spiderman Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/spiderman.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/spiderman.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/spiderman.html",
+         "extension":"mcaddon",
+         "deskripsine":"The new update of the Spider-Man Add-on adds some new custom entities and new weapons to the game.\n\nThis update also has new better textures for the suits, items and mobs.\n\nIt even has voice acting of some mobs!"
+      },
+      {
+         "id":2,
+         "judule":"Spiderman Craft Verse Addon",
+         "icone":"https://livemovies.club/mcpe_icons/spiderman_craft_verse_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/spiderman_craft_verse_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/spiderman_craft_verse_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"With this addon add content related to the Spider-Man universe from comics, movies, video games and series.\n\nYou can get costumes, weapons, tools and get the superpowers of Spider-Man, you can also meet Spider-Man villains.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Spiderman Skins",
+         "icone":"https://livemovies.club/mcpe_icons/spiderman_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/spiderman_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/spiderman_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"This pack adds some of the most popular Marvel Spider-Man superheroes (and villains) to Minecraft: Bedrock Edition.\n\nIt also includes a skin with extra arms (3D model) which is based on the Iron Spider character in the Avengers: Infinity War movie.\n\nThe skins included are Spider-Man, Unmasked Peter Parker, 2099, Black Suit, Iron Spider 3D, Spider-Man Noir, Future Foundation and Miles Morales.\n\nCreators: MrMinechest"
+      },
+      {
+         "id":4,
+         "judule":"Avengers Infinity War Addon",
+         "icone":"https://livemovies.club/mcpe_icons/avengers_infinity_war_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/avengers_infinity_war_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/avengers_infinity_war_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon is based off the Avenger Infinity War movie.\n\nThe main idea of the add-on is to add most things from the movie into your Minecraft world, including the six Infinity Stones.\n\nThe Infinity Stones have no function, but the Infinity Gaunlet definitely has as sit can save you from death.\n\nThere is also a Thanos Boss, who has 1000 health and can teleport using the Space Stone.\n\nSo suit up and save the world!"
+      },
+      {
+         "id":5,
+         "judule":"Avengers Skins",
+         "icone":"https://livemovies.club/mcpe_icons/avengers_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/avengers_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/avengers_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"You like Marvel Comics and movies?\nThen this is your skinpack!With the avengers skinpack you and your friends will win all the battles.\n\nAnd those with Thanos skins will be defeated.\n\nThis skinpack Includes the original avengers:1- Captain America2- Iron Man3- Thor4- Hulk5- Black Widow6- Hawkeye"
+      }
+   ]
+}
