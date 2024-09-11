@@ -1,0 +1,66 @@
+	  {
+   "info":"success",
+   "num":6,
+   "result":[
+      {
+         "id":1,
+         "judule":"Domestic Pets Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/domestic_pets.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/domestic_pets.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/domestic_pets.html",
+         "extension":"mcaddon",
+         "deskripsine":"Domestic Pets, an amazing super complete add-on that brings even more fun to your Minecraft worlds!!This addon currently contains more than 13 species of domestic animals for you to have in your worlds and with more than 80 variations of textures and models in total, with a lot of diversity and some fun easter eggs!"
+      },
+      {
+         "id":2,
+         "judule":"Ycreatures Addon",
+         "icone":"https://livemovies.club/mcpe_icons/ycreatures_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/ycreatures_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/ycreatures_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!!This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"World Animals Addon",
+         "icone":"https://livemovies.club/mcpe_icons/world_animals_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/world_animals_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/world_animals_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"With this add-on you add a variety of new animals that will appear in our Minecraft worlds.\n\nMost animals are aggressive, others can be domesticated to defend against mobs and some animals can be ridden.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Anima Craft Addon",
+         "icone":"https://livemovies.club/mcpe_icons/animacraft_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/animacraft_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/animacraft_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon adds a variety of new animals that are not yet in Minecraft.\n\nfor now this is still in beta,Hopefully it will develop into an interesting addon for the concept of animal concepts in Minecraft going forward, and there will be many animals, and the behavior of animals is real.\n\nThis addon can be support in versions 1.\n\n8, 1.\n\n9 and 1.\n\n10 beta"
+      },
+      {
+         "id":5,
+         "judule":"Animals Skins",
+         "icone":"https://livemovies.club/mcpe_icons/animals_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/animals_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/animals_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"7 cute and unique little animal skins!\nI definitely suggest this skin pack to all the animal lovers out there!\nEverything from a Bear to a Chicken, this skin pack is a lovely take on animals in a pixel form.\n\nSkins included:1.\n\n \"Brown Bear\" 2.\n\n \"Polar Bear\"3.\n\n \"Lion\"4.\n\n \"Tiger\"5.\n\n \"Chicken\"6.\n\n \"Fox\"7.\n\n \"Bird\""
+      },
+      {
+         "id":6,
+         "judule":"Better Mob Animations Addon",
+         "icone":"https://livemovies.club/mcpe_icons/better_mob_animations_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/better_mob_animations_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/better_mob_animations_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Are you bored of the default vanilla mob animations?\nWell, this addon will spice things up with new and improved minecraft vanilla mob animations!\nPlus, you can also play with achievements with this resource pack and no need for any experimental toggles!This addon currently has selected mobs with new animations, as time goes by, this addon will be updated to all mobs getting a brand new set of animations!"
+      }
+   ]
+}
