@@ -1,0 +1,47 @@
+  
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"yFarm",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/yfarm.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/yfarm.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/yfarm.html",
+         "extension":"mcaddon",
+         "deskripsine":"yFarm Craft has arrived to transform your farms with new animals, plants, trees and more !!!"
+      },
+      {
+         "id":2,
+         "judule":"Ycreatures Addon",
+         "icone":"https://livemovies.club/mcpe_icons/ycreatures_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/ycreatures_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/ycreatures_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!!This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Biome Pets Addon",
+         "icone":"https://livemovies.club/mcpe_icons/biome_pets_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/biome_pets_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/biome_pets_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"BiomePets is an addon with eight new creatures to your game found in each respective biome, these pets have exciting features and each with an interesting defense mode to protect you from monsters!"
+      },
+      {
+         "id":4,
+         "judule":"Domestic Pets Addon",
+         "icone":"https://livemovies.club/mcpe_icons/domestic_pets_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/domestic_pets_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/domestic_pets_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Domestic Pets, an amazing super complete add-on that brings even more fun to your Minecraft worlds!!This addon currently contains more than 13 species of domestic animals for you to have in your worlds and with more than 80 variations of textures and models in total, with a lot of diversity and some fun easter eggs!"
+      }
+   ]
+}
