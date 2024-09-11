@@ -1,0 +1,36 @@
+	  {
+   "info":"success",
+   "num":3,
+   "result":[
+      {
+         "id":1,
+         "judule":"Foodcraft",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/foodcraft.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/foodcraft.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/foodcraft.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on adds more than 70 new consumable items and an entity that makes it easy for you to get it!\nWhat are you waiting to try this beautiful and delicious add-on?"
+      },
+      {
+         "id":2,
+         "judule":"More Food Pack Addon",
+         "icone":"https://livemovies.club/mcpe_icons/more_food_pack_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/more_food_pack_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/more_food_pack_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Ever thought that Minecraft needed more food?\nThen this is your pack!\nThis pack adds more than 50+ Foods.\n\nuse to replenish those health and hunger points.\n\nThis pack also includes MorePlants to get the food.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Placeable Food Addon",
+         "icone":"https://livemovies.club/mcpe_icons/placeable_food_addon.jpg",
+         "file_url":"https://livemovies.club/mcpe_addons/placeable_food_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club/mcpe_html/placeable_food_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on implements new food decorations such as plates and 3D food items on the plates.\n\nCurrently, it's only for decoration purposes as you won't be able to eat any of the food off the plates.\n\nIt's definitely a very interesting concept as it adds more purposes for food items than just eating them.\n\n"
+      }
+   ]
+}
