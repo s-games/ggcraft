@@ -1,0 +1,56 @@
+	  {
+   "info":"success",
+   "num":7,
+   "result":[
+      {
+         "id":1,
+         "judule":"Pokedrock",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/pokedrock.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/pokedrock.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/pokedrock.html",
+         "extension":"mcaddon",
+         "deskripsine":"Welcome to the world of Pokédrock! This addon have a battle system, mounts, a lot of mechanics and real evolutions. If you want to enjoy the full experience of the addon, install all resource packs!"
+      },
+      {
+         "id":4,
+         "judule":"Pokemongen Gen 1 Skins",
+         "icone":"https://livemovies.club/mcpe_icons/pokemon_gen1_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/pokemon_gen1_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/pokemon_gen1_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"With this skin pack, you can play as the 3 Pok\u00e9mon partners you can choose to begin your adventure in the Kanto region(Generation 1), as well as their evolutions in Minecraft: Bedrock Edition!"
+      },
+      {
+         "id":5,
+         "judule":"Pokemongen Gen 2 Skins",
+         "icone":"https://livemovies.club/mcpe_icons/pokemongen_2_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/pokemongen_2_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/pokemongen_2_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"This skin pack includes the 3 Pok\u00e9mon partners you can choose to begin your adventure in the Johto region(Generation 2), as well as their evolutions.\n\nSkins include the fire Pok\u00e9mon, Ccyndaquill, the water Pok\u00e9mon, Totodile, and the grass Pok\u00e9mon, Chikorita, as well as their evolutions as shown below and in the picture.\n\nCyndaquill->Quilava->TyphlosionChikorita->Bayleef->MeganiumTotodile->Croconaw->FeraligatrThis chart features all skins in this pack, and the Pok\u00e9mon they evolve into and/or Pokemon they evolve from.\n\n"
+      },
+      {
+         "id":6,
+         "judule":"Pokemongen Gen 3 Skins",
+         "icone":"https://livemovies.club/mcpe_icons/pokemongen_3_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/pokemongen_3_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/pokemongen_3_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"With this skin pack, you can play as the 3 Pok\u00e9mon partners you can choose to begin your adventure in the Hoenn region(Generation 3), as well as their evolutions in Minecraft: Bedrock Edition!Skins include the fire Pok\u00e9mon, Torchic, the water Pok\u00e9mon, Mudkip, and the grass Pok\u00e9mon, Treecko, as well as their evolutions as shown below and in the picture.\n\nTorchic->Combusken->BlazikenMudkip->Marshtomp->SwampertTreecko->Grovyle->SceptileThis chart features all skins in this pack, and the Pok\u00e9mon they evolve into and/or Pokemon they evolve from.\n\nNote: These skins came from the internet, and were not made by me.\n\n"
+      },
+      {
+         "id":7,
+         "judule":"Pokemongen Gen 4 Skins",
+         "icone":"https://livemovies.club/mcpe_icons/pokemongen_4_skins.jpg",
+         "file_url":"https://livemovies.club/mcpe_skins/pokemongen_4_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https://livemovies.club/mcpe_html/pokemongen_4_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"Attention, all Pok\u00e9mon trainers!\nIt's time to pick your starter Pok\u00e9mon!\nWith this skin pack, you can play as the 3 Pok\u00e9mon partners you can choose to begin your adventure in the Sinnoh region(Generation 4), as well as their evolutions in Minecraft: Bedrock Edition!You can be the fire Pok\u00e9mon, Chimchar, the water Pok\u00e9mon, Piplup, and the grass Pok\u00e9mon, Turtwig, as well as their evolutions as shown below and in the picture.\n\nChimchar->Monferno->InfernapePiplup->Prinplup->EmpoleonTurtwig->Grotle->TorterraThis chart shows all skins in this pack, and the Pok\u00e9mon they evolve into and/or Pokemon they evolve from.\n\nNote: These skins came from Planet minecraft and the Skindex, and were not made by me.\n\n"
+      }
+   ]
+}
