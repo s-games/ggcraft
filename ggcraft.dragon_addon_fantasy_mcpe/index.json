@@ -5,10 +5,10 @@
       {
          "id":1,
          "judule":"Dragon Fantasy",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_fantasy.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_fantasy.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_mounts.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_mounts.zip",
          "typeMCPE":"Addon",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_fantasy.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/dragon_mounts.html",
          "extension":"mcaddon",
          "deskripsine":"Want your own fire breathing dragon then this is the addon for you soar through the air and go wherever it will take you.\n\nTake on any enemy that comes your way.\n\nBecome one with your dragon and show everyone that the bond you share with your dragon is unmatched .\n\nDo you have what it takes to become a dragon master?"
       },
