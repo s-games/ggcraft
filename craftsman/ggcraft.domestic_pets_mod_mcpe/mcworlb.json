@@ -1,0 +1,246 @@
+{
+   "info":"success",
+   "num":117,
+   "result":[
+      {
+         "id":128,
+         "judule":"Chimpanzini Bananini Italian Brainrot World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/italian_brainrot_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/italian_brainrot_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":121,
+         "judule":"How to train your dragon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_httyd.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_httyd.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":120,
+         "judule":"Zoo Animal",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zoo_animal.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zoo_animal.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":118,
+         "judule":"Robots Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_robots_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_robots_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":96,
+         "judule":"Disney Park",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_disney_park.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_disney_park.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":97,
+         "judule":"Theme Park",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_theme_park.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_theme_park.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":80,
+         "judule":"Hillside Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_hillside_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_hillside_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":81,
+         "judule":"Luxurious Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_luxurious_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_luxurious_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":82,
+         "judule":"Massive Mansion House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_massive_mansion_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_massive_mansion_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":83,
+         "judule":"Million Spectacular Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_million_spectacular_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_million_spectacular_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":84,
+         "judule":"Modern House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":85,
+         "judule":"Modern Redstone Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_redstone_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_redstone_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":86,
+         "judule":"Modern Seaside Mansion House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_seaside_mansion_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_seaside_mansion_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":87,
+         "judule":"Modern Super Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_super_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_super_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":88,
+         "judule":"Paradise Island",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_paradise_island.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_paradise_island.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":89,
+         "judule":"Pink House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":90,
+         "judule":"Pink Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":91,
+         "judule":"Redstone Woodland Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_redstone_woodland_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_redstone_woodland_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":92,
+         "judule":"Special Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_special_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_special_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":93,
+         "judule":"Super Smart Swampy Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_super_smart_swampy_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_super_smart_swampy_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":94,
+         "judule":"Tony Starks Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_tony_starks_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_tony_starks_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":95,
+         "judule":"Ultra House Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_ultra_house_mansion.webp",
+         "file_url":"https://livemovies.club/mcworlb1.20/MS_ultra_house_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":129,
+         "judule":"Lamborghini World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/lamborghini_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/lamborghini_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":130,
+         "judule":"Nether World Survival",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/nether_world_survival.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/nether_world_survival.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      }
+   ]
+}
