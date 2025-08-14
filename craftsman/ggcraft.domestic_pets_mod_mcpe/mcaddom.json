@@ -2,7 +2,35 @@
    "info":"success",
    "num":999,
    "result":[
-      {
+        {
+         "id":8,
+         "judule":"yCreatures",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This addon contains 100 new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures."
+      },  {
+         "id":24,
+         "judule":"Domestic Pets",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/domestic_pets.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/domestic_pets.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This addon currently contains more than 19 species of domestic animals for you to have in your worlds and with more than 100 variations of textures and models"
+      },
+         {
+         "id":26,
+         "judule":"Farm Pets",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/farm_pets.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/farm_pets.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"A simple farm with many kinds of animals, surrounded by fences to keep them from escaping. Cooked meat is one of the best food options in the game."
+      },      {
          "id":32,
          "judule":"Pokecraft",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/pokecraft.webp",
@@ -42,16 +70,7 @@
          "extension":"mcaddom",
          "deskripsine":"Unleash your inner Autobot or Decepticon as you traverse through mesmerizing landscapes inspired by the Transformers: Rise of the Beasts film. Engage in epic battles against fellow players or hostile mobs, showcasing your strategic prowess and combat skills."
       },
-      {
-         "id":8,
-         "judule":"yCreatures",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcaddom",
-         "deskripsine":"This addon contains 100 new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures."
-      },
+
       {
          "id":2,
          "judule":"TNT Destructive",
@@ -222,17 +241,7 @@
          "extension":"mcaddom",
          "deskripsine":"150+ Dinosaurs with realistic behaviors & biome specific spawning. Craft new weapons, armor, & tools. Morph into dinosaurs and gain their abilities."
       },
-      {
-         "id":24,
-         "judule":"Domestic Pets",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/domestic_pets.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/domestic_pets.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcaddom",
-         "deskripsine":"This addon currently contains more than 19 species of domestic animals for you to have in your worlds and with more than 100 variations of textures and models"
-      },
-      {
+     {
          "id":25,
          "judule":"Dragon Wings",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/dragon_wings.webp",
@@ -242,16 +251,7 @@
          "extension":"mcaddom",
          "deskripsine":"Add new wing to your game that allows you to fly up and down with infinite fly without using fireworks or any other item."
       },
-      {
-         "id":26,
-         "judule":"Farm Pets",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/farm_pets.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/farm_pets.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcaddom",
-         "deskripsine":"A simple farm with many kinds of animals, surrounded by fences to keep them from escaping. Cooked meat is one of the best food options in the game."
-      },
+
       {
          "id":27,
          "judule":"Farming Simulator",
@@ -303,4 +303,5 @@
          "deskripsine":"Siren Head is a fictional character from an artist named Trevor Henderson, now they're in Craftsman. This boss mob is really tall, the height of it's about 14."
       }
    ]
+
 }
